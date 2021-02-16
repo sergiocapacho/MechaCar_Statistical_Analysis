@@ -20,3 +20,10 @@ No, this linear model is not ideal as the majority of variables do not contribut
 ### The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
 The current manufacturing data does not always meet the design specification for all manufacturing lots, in total is very close as it can be seen in the summarized table, but lot by lot it shows a very high variance in lot 3, which can be a big problem. 
+
+## T-Tests on Suspension Coils
+
+## Study Design: MechaCar vs Competition
+
+### Metrics to test: Maintenance frequency per year and mpg
+### H0 = 
