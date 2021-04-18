@@ -22,7 +22,3 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ### Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
 The current manufacturing data does not always meet the design specification for all manufacturing lots, in total is very close as it can be seen in the summarized table, but lot by lot it shows a very high variance in lot 3, which can be a big problem. 
-
-## Study Design: MechaCar vs Competition
-
-### Metrics to test: Maintenance frequency per year and mpg
