@@ -21,9 +21,6 @@ No, this linear model is not ideal as the majority of variables do not contribut
 
 The current manufacturing data does not always meet the design specification for all manufacturing lots, in total is very close as it can be seen in the summarized table, but lot by lot it shows a very high variance in lot 3, which can be a big problem. 
 
-## T-Tests on Suspension Coils
-
 ## Study Design: MechaCar vs Competition
 
 ### Metrics to test: Maintenance frequency per year and mpg
-### H0 = 
